@@ -22,6 +22,7 @@ package calculadora;
  * 
  * @version 1.0
  */
+//editado en github
 //hola como estas
 public class Calculadora {
     private int num1;
